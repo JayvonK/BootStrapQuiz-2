@@ -1,0 +1,46 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.start {
+    display: flex;
+    justify-content: start;
+}
+
+.end {
+    display: flex;
+    justify-content: end;
+}
+
+.cardTxtBg {
+    background-color: #E2D0D0;
+}
+
+.one {
+    background-color: #6B66E0;
+}
+.two {
+    background-color: #AF5555;
+}
+.three {
+    background-color: #7AF470;
+}
+.four {
+    background-color: #4AE6DA;
+}
+
+.border {
+    border: none;
+    border-radius: 0%;
+}
